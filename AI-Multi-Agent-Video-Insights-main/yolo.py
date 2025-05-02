@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 from PIL import Image
 
-# Load a COCO-pretrained YOLO11n models
+# Load a COCO-pretrained YOLO11n model
 model = YOLO("yolo11n.pt")
 
 
